@@ -1,4 +1,4 @@
-# YouTube Audio Processor
+# Mashup Project
 
 This Streamlit application allows users to download audio from YouTube videos, process them, and send the results via email.
 
